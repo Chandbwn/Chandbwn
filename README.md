@@ -1,4 +1,4 @@
-This page is to provide a summary of the projects I am building using code as a service and AI driven cpabilities. Restricted to work use 
+This page is to provide a summary of the projects I am building using code as a service and AI driven capabilities. Restricted to work use 
 -See my linkedin profile https://www.linkedin.com/in/chandra-kris-bullywon-0444362b/
 - 👋 Hi, I’m @kris and I have intragrated some buiness requirements to carry out some tests and automate using API
 - 👀 My passion is about Cybersecurity and I'm a very well versed in Network, SASE, SSE, CNAPP
